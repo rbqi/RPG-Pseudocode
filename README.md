@@ -6,7 +6,7 @@
 # Description: Adventure Game
 
 # Gameplan layout
-Title : Mantik World
+Title : Mantik Wor     ld
 ask user to enter game
 if yes, say welcome to the Manatik world
 if no, say come back next time
@@ -44,3 +44,7 @@ direction: up, down, left, right
 Quests:  level 1: find the first amulet hidden in the first clan, there's a key that will unlock the door indoor to reach level 2
 
 Goal: get all 3 amulets
+
+# level 1
+"Welcome to Monu Clan!"
+"Meet with Ida in the south of the Nork Village 
