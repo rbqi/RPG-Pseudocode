@@ -124,6 +124,26 @@ print: (invalid direction)
 
 Map:
 
+# Layout of the whole the Mantik Village
+
+# Layout of Monu Territory (South Side 4x4 grid)
+# MonuBorder is the starting base of the first quest
+# MoNO is an area filled with hidden enemies
+# MV is an empty area
+# Monurce is where you can find weapons, food and treatment
+# Mountik is the mountain 800km away where the first amulet is hidden
+# MonuLiberty is where the first quest is completed
+
+
+
+# Layout of Gozen Territory (North Side 4x4 grid)
+# GozenBorder is where the starting base & second quest begins
+# Gwar is an area filled with scattered enemies
+# GV is an empty area
+# Goreload is where you can find weapons, food and treatment
+# Gwind is the windmill 600km away and where the last amulet is hidden
+# GozenLiberty is where the final quest is completed
+
 
 if user doesn’t want to play the game: 
 print message: “Awh that’s too bad. I hope you come back again next time! Bye Bye!”
