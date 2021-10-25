@@ -12,7 +12,7 @@ Gameplan layout
 Title : Mantik Village
 
 # Ask the user to enter the game
-print message: "Would you like to enter the game?" 
+print message: "Press 'Enter' to play" 
 
 if user wants to play the game: user press ENTER
 # After the user ENTER 
