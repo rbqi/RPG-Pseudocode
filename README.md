@@ -18,7 +18,7 @@ if user wants to play the game: user press ENTER
 # After the user ENTER 
 print message: “Hey Traveler! I’ve been waiting for your arrival, you finally came. Welcome to Mantik Village! This is going to be quite an adventure. ”
 
-print another message: “Before we begin, here is a provided list of variables you can input to guide you along the way of your quest. You can also remember it as an algorithm: CEHIM
+print another message: “Before we begin, here is a provided list of variables you can input to guide you along the way of your quest. You can also remember it as an algorithm: SIME
 
 
 s = sos
@@ -30,7 +30,7 @@ print message: “Input c to Continue the game”
 # After user input C
 print message about the plot of the game: “You along with thousands of locals died after an explosion that occurred when Zuko, the greatest enemy of them all invaded the Mantik village. You have now been reincarnated and are taking revenge to destroy Zuko. In order to destroy him you must find 2 special amulets to assemble back together. The amulets are found in 2 different territories, Monu territory and Gozen territory.”
 
-print another message: “Well, before we begin our adventure. Choose a character:”
+print another message: “Well, before we start our adventure. Choose a character:”
 # List of available characters 
 
 Kuro:
