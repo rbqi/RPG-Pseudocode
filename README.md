@@ -20,11 +20,11 @@ print message: “Hey Traveler! I’ve been waiting for your arrival, you finall
 
 print another message: “Before we begin, here is a provided list of variables you can input to guide you along the way of your quest. You can also remember it as an algorithm: CEHIM
 
-c = continue
-e = exit
-h = help
+
+s = sos
 i = inventory
 m = map
+e = exit
 
 print message: “Input c to Continue the game”
 # After user input C
