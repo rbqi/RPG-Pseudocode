@@ -30,7 +30,7 @@ print message: “Input c to Continue the game”
 # After user input C
 print message about the plot of the game: “You along with thousands of locals died after an explosion that occurred when Zuko, the greatest enemy of them all invaded the Mantik village. You have now been reincarnated and are taking revenge to destroy Zuko. In order to destroy him you must find 2 special amulets to assemble back together. The amulets are found in 2 different territories, Monu territory and Gozen territory.”
 
-print another message: “Well, before we start our adventure. Choose a character:”
+print another message: “We'll begin ur adventure shortly, but first choose a character from the following: ”
 # List of available characters 
 
 Kuro:
