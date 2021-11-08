@@ -37,22 +37,22 @@ Kuro:
 # Print a nested dict of Kuro’s inventory 
 Kuro’s Inventory:
 Level: 1
+MAX HP: 5000
 Default weapon: Sword
 Damage: 0
 Kills: 0
-Max energy: 1.472
-Protection: 10
+Protection: force field
 
 
 Adachi:
 # Print a nested dict of Adachi’s inventory 
 Adachi’s Inventory:
 Level: 1
+MAX HP: 5000
 Default weapon: Bow & Arrow
 Damage: 0
 Kills: 0
-Max energy: 1.257
-Protection: 17
+Protection: camoflauge, fly
 
 
 # After user pick Kuro or Adachi:
